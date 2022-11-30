@@ -76,6 +76,16 @@
     FIN
  
  ![image](https://user-images.githubusercontent.com/117783981/204408942-0623b3e5-3d43-4c20-bef3-a9a15755fae8.png)
+ 
+ ## PRINT MY NAME & AGE
+ 
+ Algoritmo ImprimirNombreEdad
+ 
+	Imprimir "David Gil"
+	Imprimir 28
+			
+FinAlgoritmo
+
 
     
     
