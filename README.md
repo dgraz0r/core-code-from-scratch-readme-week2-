@@ -86,6 +86,9 @@
 			
 FinAlgoritmo
 
+## ALGORITHM GAME
+
+![image](https://user-images.githubusercontent.com/117783981/204685629-5b223c82-638f-4938-81a2-ca940bf8aaf4.png)
 
     
     
