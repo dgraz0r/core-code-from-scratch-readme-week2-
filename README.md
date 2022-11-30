@@ -90,6 +90,33 @@ FinAlgoritmo
 
 ![image](https://user-images.githubusercontent.com/117783981/204685629-5b223c82-638f-4938-81a2-ca940bf8aaf4.png)
 
+## REGISTER FORM
+
+Algoritmo RegisterForm
+	
+	Imprimir "--------- USER FORM -----------"
+	Imprimir "Ingrese su primer nombre"
+	Leer nombre
+	Imprimir "Ingrese su apellido"
+	Leer apellido
+	Imprimir "Ingrese su edad"
+	Leer edad
+	Imprimir "Ingrese su e-mail"
+	Leer email
+	Imprimir "Ingrese su direccion"
+	Leer dir
+	Imprimir ""
+	Imprimir "Su información es:"
+	Imprimir ""
+	Imprimir "Nombre y apellido:", " ", nombre, " ", apellido
+	Imprimir "Edad:", " ", edad, " ", "años"
+	Imprimir "Correo electronico:", " ", email
+	Imprimir "Direccion:", " ", dir
+			
+FinAlgoritmo
+
+
+
     
     
       
