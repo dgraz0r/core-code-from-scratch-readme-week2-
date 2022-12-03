@@ -166,6 +166,26 @@ Algoritmo boolean
 FinAlgoritmo
 
 
+## IDENTIFY ODD AND EVEN NUMBERS
+
+Algoritmo Modulo
+	
+	Imprimir "Ingrese un numero para verificar si es par o impar"
+	Leer num
+	Imprimir "Verificando si es par o impar"
+	Imprimir ""
+	Imprimir ""
+	x <- num % 2
+	Si x > 0 Entonces
+		Imprimir "El numero ", num, " es impar"
+	SiNo
+		Imprimir "El numero ", num, " es par"
+	Fin Si
+	Imprimir ""
+	
+FinAlgoritmo
+
+
 	
 
     
