@@ -155,13 +155,16 @@ FinAlgoritmo
 ## BOOLEAN RESULTS
 
 Algoritmo boolean
+
 	a. <- 5 == 3 // FALSO, porque 5 no es igual a 3
 	b. <- 4 <> 3 // VERDADERO, porque 4 no es igual a 3
 	c. <- 7 > 7 // FALSO, porque 7 no es mayor que 7
 	d. <- 4 < 4 // FALSO, porque 4 no es menor que 4
 	e. <- 100 <= 90 // FALSO, porque 100 no es menor o igual que 90
 	f. <- 40 >= 40 // VERDADERO, porque 40 si es mayor o igual a 40
+	
 FinAlgoritmo
+
 
 	
 
